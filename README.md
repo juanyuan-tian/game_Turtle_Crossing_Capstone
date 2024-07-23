@@ -1,4 +1,5 @@
 Turtle_Crossing_Capstone 
+
 (you can click function Display gif figure or download Video to check what it Looks like. )
 
 1. If turtle hits the colourful bars, then game over.
@@ -12,4 +13,5 @@ Configuration and requirement
 
 Contact
 Author - yuan.tian0088@gmail.com
+
 GitHub - juanyuan-tian
