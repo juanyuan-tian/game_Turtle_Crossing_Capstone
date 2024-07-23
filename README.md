@@ -1,6 +1,6 @@
 Turtle_Crossing_Capstone 
 
-(you can click 1_function_display_gif.gif figure or download Video to check what it Looks like. )
+you can click GIF figure(1_function_display_gif.gif) or download video(1_function_display_video.mp4) to check what it looks like. 
 
 1. If turtle hits the colourful bars, then game over.
 2. Everytime turtle reaches the top, the bars movement will speed up and the game will be more difficult.
